@@ -3,7 +3,7 @@
 # 1. Números (enteros y decimales)
 edad = 25
 altura = 1.75
-precio = 99.90
+precio = 99.90 
 
 print("--- NÚMEROS ---")
 print("Edad (entero):", edad, "-> Tipo:", type(edad))
