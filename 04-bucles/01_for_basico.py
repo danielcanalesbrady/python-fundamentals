@@ -35,4 +35,11 @@ for color in colores:
 
 #4 Pide al usuario un número entero n. Luego usa un bucle for para imprimir la tabla de multiplicar de ese número (del 1 al 10).
 
-print("Ingrese el número a multiplicar:")
+""" usuarios = ["Daniel","peo","s"]
+x,y,z = usuarios
+
+print(x)
+print(y)
+print(z) """
+
+
